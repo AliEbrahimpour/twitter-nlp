@@ -21,7 +21,7 @@ for dirpath, dirs, files in os.walk('tweets'):
             tweet = " ".join(tweet.split())
 
             if len(tweet) > 0 :
-                with codecs.open("nlp/step2/"+filename, 'w',encoding="utf-8") as f:
+                with codecs.open("step2/"+filename, 'w',encoding="utf-8") as f:
                     f.write(tweet)
 
 
