@@ -1,10 +1,246 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5c24b4d-fb5f-4925-ac60-0b4f525a0f08" name="Default" comment="">
+    <list default="true" id="b5c24b4d-fb5f-4925-ac60-0b4f525a0f08" name="Default" comment="to step 4">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/974257267884294144.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/974257279028510721.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/974257280974811137.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/974257284300922880.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/974257287551508480.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/974257290198044672.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/974257296372006912.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/974257302659260416.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/974257304093806593.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/974257309391171585.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/974257313354866688.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/974257318379573249.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/974257323265970177.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/974257329565786112.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/974257329960087552.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652919728926720.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652921884790785.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652922039947264.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652922232868864.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652922513936384.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652924267122688.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652925374402560.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652928893440000.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652929245827072.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652930181083140.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652930235609088.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652932131475457.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652933612081154.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652934316724224.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652937793757184.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652938662039552.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652941065359360.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652943258869760.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652943397273600.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652943489564673.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652944219496460.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652945293168641.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652945435758592.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652945926574080.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652946970959878.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652946991894529.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652949420412928.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652949680443393.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652951391719426.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652952033484800.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652953505607685.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652955556671488.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652956013842432.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652957007806464.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652958106759169.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652958949863424.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652959016828928.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652959323062272.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652959948107781.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652960086511617.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652961051115520.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652961378365440.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652961608994816.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652962078838784.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652962376617986.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652962674429952.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652963198685186.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652968055697408.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652970429673472.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652970974932992.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652971385880577.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652972531044358.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652978403004416.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652979900375040.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652980730843137.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652981951332355.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652985462018048.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652986405728256.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652994429509633.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652994999930880.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652997201940481.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978652999038984192.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653000267857925.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653003984113665.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653007276584963.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653007423324160.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653007675101185.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653008782331904.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653009772204032.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653009906487296.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653012372656129.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653012741812225.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653016101408768.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653017590378496.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653017904959488.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653018580291584.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653020287324161.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653022841704448.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653023332380702.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653024070586369.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653024485814272.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653028038328320.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653028235595777.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653030064287744.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653030487941120.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653030705967105.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653032299794432.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653032425705472.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653034682167297.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653035890081794.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653037010014208.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653037605605376.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653037790187520.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653038616379392.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653039732101122.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653040197632000.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653045738307584.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653046929481728.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653050595287041.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653054143795202.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653055393697793.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653056572239872.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653056605868032.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653056949727232.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653057939656705.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653058149306370.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653058317111296.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653059051073537.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653059281817603.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653059516596225.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653059525070849.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653060045135874.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653060418494464.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653062540775424.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653063413039104.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653064797261832.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653065157935105.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653065350909953.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653065438953478.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653065468370949.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653074880368640.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653074993696768.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653076147064833.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653076377817089.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653077069877248.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653077338279938.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653078554587136.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653080404316160.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653082761515008.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653083025707008.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653083893882880.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653090453901314.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653092307709953.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653097219317762.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653101077999616.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653101770051584.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653101921009666.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653104316059649.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653104798396417.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653106664886273.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653106916483072.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653107558199296.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653108938080257.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653109407879169.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653111052095488.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653112536911872.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653112951910400.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653113740505089.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653115124764672.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653116265623555.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653116412424192.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653119138713600.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653119381999618.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653121311399938.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653121323905024.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653121458196483.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653122758430720.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653123097931776.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653126092836865.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653127028232192.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653127250530306.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653127518846977.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653130060640256.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653132233281536.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653132547903488.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653133856526336.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653134309519361.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653134934429696.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653136276656128.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653137069395968.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653137283239939.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653138315038720.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653139426562048.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653140684713984.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653143381741568.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653143541010433.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653144791035904.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653145596399616.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653147055951872.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653149312495616.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653151078133761.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653151447408640.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653151686520832.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653153544503297.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653154026934273.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653154454704129.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653155238993920.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653156572893184.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653160570081281.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653166240714752.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653167742324736.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653167935246337.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653169218670592.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653170820894726.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653172175585281.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653172968370176.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653174969094145.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653178999734272.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653179494785024.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653181914832896.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653183051468801.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653183290392576.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653186037768193.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653187724009472.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653193453359105.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653193684078593.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653198843105281.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653199115673600.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653201703546880.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653201925918720.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653202303406081.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653202735345665.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653203196727298.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653205474299904.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653205780484096.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653206770274306.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653207462326272.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653208875761665.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653212415877120.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653212499587074.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step2/978653214743592960.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step3/word-frequency.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/step4/stop-words.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twitter-step-3.py" afterPath="$PROJECT_DIR$/twitter-step-3.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twitter-step-4.py" afterPath="$PROJECT_DIR$/twitter-step-4.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -73,8 +309,8 @@
       <file leaf-file-name="twitter-step-4.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/twitter-step-4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="13" column="86" lean-forward="false" selection-start-line="13" selection-start-column="86" selection-end-line="13" selection-end-column="86" />
+            <state relative-caret-position="183">
+              <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -154,6 +390,11 @@
             <path>
               <item name="twitter-nlp" type="b2602c69:ProjectViewProjectNode" />
               <item name="twitter-nlp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-nlp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-nlp" type="462c0819:PsiDirectoryNode" />
+              <item name="step3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -306,14 +547,20 @@
       <option name="project" value="LOCAL" />
       <updated>1522180162485</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="to step 4">
+      <created>1522189741272</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1522189741272</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19399707" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19399707" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -342,7 +589,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="to step 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="to step 3" />
+    <MESSAGE value="to step 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="to step 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -513,8 +761,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/twitter-step-4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="13" column="86" lean-forward="false" selection-start-line="13" selection-start-column="86" selection-end-line="13" selection-end-column="86" />
+        <state relative-caret-position="183">
+          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
           <folding />
         </state>
       </provider>
