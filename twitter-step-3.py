@@ -17,16 +17,18 @@ for dirpath, dirs, files in os.walk('step2'):
                     wordcount[word] += 1
 
 
-b = OrderedDict(sorted(wordcount.items(), key=lambda t: t[1]))
+# b = OrderedDict(sorted(wordcount.items(), key=lambda t: t[1]))
+s = [(k, wordcount[k]) for k in sorted(wordcount, key=wordcount.get, reverse=True)]
 
-for k,v in b.items():
-    print (k,v)
-    if len(wordcount) > 0:
-        with codecs.open("step3/word-frequency.txt", 'a+', encoding="utf-8") as f:
-            j = k+str(v)
-            f.write(j+'\n')
+for k,v in s:
+    # print (k,v)
+    with codecs.open("step3/word-frequency.txt", 'a+', encoding="utf-8") as f:
+        my_string = u"{key}:{value}: ".format(key=k, value=v)
+        print(my_string)
+        f.write(my_string)
 
 # codecs.open("step2/" + filename, 'w', encoding="utf-8") as f:
 #     f.write(tweet)
 
+f.close();
 file.close();
