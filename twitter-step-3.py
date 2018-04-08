@@ -25,7 +25,7 @@ for k,v in s:
     with codecs.open("step3/word-frequency.txt", 'a+', encoding="utf-8") as f:
         my_string = u"{key}:{value}: ".format(key=k, value=v)
         print(my_string)
-        f.write(my_string)
+        f.write(my_string+'\r\n')
 
 # codecs.open("step2/" + filename, 'w', encoding="utf-8") as f:
 #     f.write(tweet)
