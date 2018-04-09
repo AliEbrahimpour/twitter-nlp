@@ -20,7 +20,7 @@ s = [(k, wordcount[k]) for k in sorted(wordcount, key=wordcount.get, reverse=Tru
 
 
 with codecs.open("step5/inverted-index.txt", 'a+', encoding="utf-8") as f:
-    f.write("data= {"+'\r\n')
+    f.write("data = {"+'\r\n')
     for k,v in s:
         # print(worddirc[k])
         f.write(k+":"+'\r\n')
